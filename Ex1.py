@@ -24,5 +24,5 @@ class Application:
 
 root = Tk()
 Application(root)
-root.mainloop
+root.mainloop()
 
